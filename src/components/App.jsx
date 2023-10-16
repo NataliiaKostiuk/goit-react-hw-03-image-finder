@@ -103,10 +103,3 @@ export class App extends Component {
     );
   }
 }
-// {selectedImage !== null && (
-//           <ModalWindow
-//             selectedImage={selectedImage}
-//             tags={alt}
-//             onClose={this.closeModal}
-//           />
-//         )}
